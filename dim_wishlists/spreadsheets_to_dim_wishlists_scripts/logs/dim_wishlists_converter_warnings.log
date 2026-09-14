@@ -1139,3 +1139,6 @@
     2026-09-14 02:34:33,031 [INFO] -> Parsing nested ledger tab: 'Other'
     2026-09-14 02:34:33,049 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
     2026-09-14 02:34:33,075 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
+2026-09-14 14:35:20,068 [INFO] -> ================================================================================
+2026-09-14 14:35:20,068 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-09-14 14:35:20,068 [INFO] -> ================================================================================
