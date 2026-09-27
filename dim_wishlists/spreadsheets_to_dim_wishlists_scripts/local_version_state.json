@@ -6,12 +6,12 @@
       "workbooks": {
         "Changelog": {
           "local_saved_hash": "e0d386742ff655b157999ba90442e182dff8bdb5ded0156669c4bf68ef1cae59",
-          "last_check": "2026-09-27T02:43:36.047406+00:00",
+          "last_check": "2026-09-27T13:25:31.104906+00:00",
           "workbook_scrape_update_required": false
         },
         "Equipment (WIP)": {
           "local_saved_hash": "544d51357cb312855c4f8135f6d002f2e64016221add206b2bb7ab7e3cd6263e",
-          "last_check": "2026-09-27T02:43:36.031385+00:00",
+          "last_check": "2026-09-27T13:25:31.079103+00:00",
           "workbook_scrape_update_required": false
         }
       }
@@ -22,7 +22,7 @@
       "workbooks": {
         "Weapons": {
           "local_saved_hash": "0b8d837e1ab21159fb2d1f76c8a6a4bd8225cbe34b86ea77294c4faccea2ea1a",
-          "last_check": "2026-09-27T02:43:36.681980+00:00",
+          "last_check": "2026-09-27T13:25:31.686093+00:00",
           "workbook_scrape_update_required": false
         }
       }
@@ -164,6 +164,6 @@
     "bungie_manifest_download_required": false,
     "bungie_manifest_compile_required": false,
     "local_saved_version": "244213.26.06.29.2000-1-bnet.65864",
-    "last_check": "2026-09-27T02:43:35.541005+00:00"
+    "last_check": "2026-09-27T13:25:30.325554+00:00"
   }
 }
