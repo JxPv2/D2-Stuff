@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-09-18 18:45:14"
+    "scrape_date": "2026-10-12 17:09:40"
   },
   "workbooks": {
     "Shopping List": {
@@ -13223,7 +13223,8 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Voltshot"
+            "Voltshot",
+            "Collective Demolition"
           ],
           "perk2": [
             "Meganeura",
