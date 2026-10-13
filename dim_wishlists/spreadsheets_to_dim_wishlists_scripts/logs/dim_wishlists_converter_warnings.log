@@ -1489,3 +1489,6 @@
 2026-10-13 04:43:05,749 [INFO] -> ================================================================================
   2026-10-13 04:43:05,793 [INFO] -> Processing 'aegis_boss-damage_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
     2026-10-13 04:43:05,793 [INFO] -> Parsing nested ledger tab: 'Equipment (WIP)'
+2026-10-13 15:26:12,066 [INFO] -> ================================================================================
+2026-10-13 15:26:12,067 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-10-13 15:26:12,067 [INFO] -> ================================================================================
