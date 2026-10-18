@@ -2489,3 +2489,14 @@
   2026-10-18 12:18:52,365 [INFO] -> ================================================================================
   2026-10-18 12:18:52,365 [INFO] -> Wishlist Splitter complete (no-op — nothing to process).
   2026-10-18 12:18:52,365 [INFO] -> ================================================================================
+2026-10-18 18:22:19,848 [INFO] -> ================================================================================
+2026-10-18 18:22:19,848 [INFO] -> 🚀 Starting Wishlist Splitter...
+2026-10-18 18:22:19,848 [INFO] -> ================================================================================
+  2026-10-18 18:22:19,849 [INFO] -> 📋 No split flags found in state. Checking for missing output files...
+  2026-10-18 18:22:19,868 [INFO] ->   ⏭️  Skipping aegis_boss-damage (no changes and all outputs exist)
+  2026-10-18 18:22:19,868 [INFO] ->   ⏭️  Skipping aegis_speedrunner (no changes and all outputs exist)
+  2026-10-18 18:22:19,869 [INFO] ->   ⏭️  Skipping aegis_endgame (no changes and all outputs exist)
+  2026-10-18 18:22:19,869 [INFO] -> No state flags were modified.
+  2026-10-18 18:22:19,869 [INFO] -> ================================================================================
+  2026-10-18 18:22:19,869 [INFO] -> Wishlist Splitter complete (no-op — nothing to process).
+  2026-10-18 18:22:19,869 [INFO] -> ================================================================================
